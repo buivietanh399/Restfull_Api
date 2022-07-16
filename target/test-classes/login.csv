@@ -1,0 +1,10 @@
+﻿email,Password,code expect,message expect
+thanhdaica@gmail.com,123456,1000,OK
+thanhdaica@gmail.com,123,1002,メールとパスワードは違いました
+thanhdaica@gmail.com,,1001,email:  &password: 7000
+,123456,1001,"email: 7000 &password: "
+thanhdaca,123456,1001,"email: 7002 &password: "
+thanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathhfjksfhkjsdhruehugvhefuivhiahry89eryhvuihreuhgiuahguifguiranhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdacathanhdaca@gmail.co,123456,1001,"email: 7001 &password: "
+thanhdaica@gmail.com,1234567,1002,メールとパスワードは違いました
+thanhthanhthanhthanhthanhthanhthanhthanhthanhthanhthanhthanhthanhthanh@gmail.com,123456,1002,メールとパスワードは違いました
+thanh3456thanh3456tha12thanh3456thanh3456thanh3456thanh3456thanh3456thanh3456thanh3456345612thanh3456thanh3456thanh3456thanh3456thanh3456thanh3456thanh34563456nh3456thanh3456thanh3456tthanh3hanh3456@gmail.com,123,1002,メールとパスワードは違いました

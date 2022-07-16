@@ -1,0 +1,7 @@
+﻿input,,,,,,,output,
+access_token,name,phone,email,content,file,report_type,code,message
+asasasasas,khanh,123123,khanh@gmail.com,TrashService,,1,1000,OK
+,khanhjohn,3434343,,DontTrush,,3,1001,name: &phone: &email: 7000&content: &report_type: 
+,dsdsad,123542345,wwe.com,dfgsdfsdf,,2,1001,name: &phone: &email: 7002&content: &report_type: 
+,khanhz,callme,Khanhz@gmail.com,Trash,,1,1001,name: &phone: The phone format is invalid.&email: &content: &report_type: 
+dont,khanhback,114,khanhz312@gmail.com,Clean,,4,1001,name: &phone: &email: &content: &report_type: The selected report type is invalid.
