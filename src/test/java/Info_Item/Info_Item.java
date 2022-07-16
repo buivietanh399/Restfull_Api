@@ -6,6 +6,9 @@ import io.restassured.response.Response;
 import org.junit.Assert;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvFileSource;
+
+import java.util.ArrayList;
+
 import static io.restassured.RestAssured.given;
 
 public class Info_Item {
@@ -42,5 +45,5 @@ class Data_3 {
     public String description;
     public String starting_price;
     public String brand_id;
-    public String images;
+    public ArrayList<String> images;
 }
